@@ -84,10 +84,3 @@ Soy estudiante de Tecnología en Análisis y Desarrollo de Software en el SENA, 
 
 ---
 
-<div align="center">
-
-*"El buen código es su propio mejor documento."* — Steve McConnell
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valen323.valen323)
-
-</div>
